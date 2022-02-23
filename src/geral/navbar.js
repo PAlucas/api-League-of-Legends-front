@@ -6,6 +6,7 @@ export default function Navegador (){
     return(
         <Navbar bg="dark">
             <Container>
+                <h1>test</h1>
                 <Navbar.Brand href="/">
                 <img
                 src={logo}
