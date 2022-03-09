@@ -19,7 +19,7 @@ Mostrar as informações dos usuários do jogo league of legends.
 Por meio de uma api, feita por node hospedada no heroku, são trazidas informações dos jogadores em tempo real. Depois de serem requisitadas as informações o front utiliza dessas informações e imprime na tela.
 
 ## Site 
-https://frosty-fermat-f926fd.netlify.app/summoner/Kami
+https://frosty-fermat-f926fd.netlify.app/
 (obs: infelizmente é necessário a renovação do token a cada 24 horas, então se não estiver aparecendo informações provavelmente o token foi expirado. Se isso acontecer entrar em contado comigo)
 lucaslotti300@gmail.com
 
