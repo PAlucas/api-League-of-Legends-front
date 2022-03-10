@@ -19,7 +19,7 @@ export default function Home(){
             console.log(res.data) 
             setSummoner(res.data)
         }).catch(e => console.log("Erro na requisição"));
-    });
+    },[id]);
 
     //Se não tiver jogos ranked retorna 0
     if(summoner.wins === undefined){
